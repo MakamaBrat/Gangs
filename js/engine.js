@@ -1,5 +1,5 @@
 // Minimal engine for the web port: asset loading, sprites/animations, tile map, collision.
-export const TICK = 50; // ms per animation time unit (tune to match the original)
+export const TICK = 100; // ms per animation time unit = one game tick (original run() loop is 100 ms)
 const cache = { sprites: {}, maps: {} };
 const loadImg = src => new Promise(r => { const i = new Image(); i.onload = () => r(i); i.onerror = () => r(null); i.src = src; });
 

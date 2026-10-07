@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>mygame web port — просмотр ассетов</title>
+<style>
+ body{margin:0;background:#1b1b24;color:#ddd;font:14px system-ui,sans-serif;display:flex;flex-direction:column;align-items:center;gap:8px;padding:8px}
+ canvas{image-rendering:pixelated;background:#000;width:min(100%,720px);max-width:100%;aspect-ratio:3/2;border:1px solid #444}
+ .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;justify-content:center}
+ select,button{font:inherit;padding:4px 8px}
+</style></head><body>
+<canvas id="c" width="240" height="160"></canvas>
+<div class="row">
+  <label>Карта <select id="city"><option value="city1_h">city1_h</option><option value="city2_s">city2_s</option></select></label>
+  <label>Спрайт <select id="spr"></select></label>
+  <label>Анимация <select id="anim"></select></label>
+  <button id="snd">Звук 1</button>
+</div>
+<div id="info"></div>
+<small>Стрелки — двигать камеру (Shift — быстрее). Запуск: <code>python3 -m http.server</code> и открыть http://localhost:8000</small>
+<script type="module" src="js/main.js"></script>
+</body></html>
