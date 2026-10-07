@@ -1,0 +1,5077 @@
+{
+ "3d_planet": {
+  "vertices": 108,
+  "triangles": 72,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -2048.0,
+    -2048.0,
+    -2048.0
+   ],
+   [
+    2048.0,
+    2048.0,
+    2048.0
+   ]
+  ],
+  "size": [
+   4096.0,
+   4096.0,
+   4096.0
+  ],
+  "file": "3d_planet.glb",
+  "placeholder": false,
+  "source": "3d_planet.m3g"
+ },
+ "arrow": {
+  "vertices": 66,
+  "triangles": 22,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -1024.0,
+    -1023.0,
+    2047.0
+   ],
+   [
+    1024.0,
+    1024.0,
+    6144.0
+   ]
+  ],
+  "size": [
+   2048.0,
+   2047.0,
+   4097.0
+  ],
+  "file": "arrow.glb",
+  "placeholder": false,
+  "source": "arrow.m3g"
+ },
+ "asteroid": {
+  "vertices": 87,
+  "triangles": 50,
+  "meshes": 1,
+  "colors": [
+   "#5b5b5b",
+   "#565656",
+   "#464646",
+   "#3d3d3d"
+  ],
+  "bbox": [
+   [
+    -1636.0,
+    -1669.0,
+    -1884.0
+   ],
+   [
+    1608.0,
+    1834.0,
+    2108.0
+   ]
+  ],
+  "size": [
+   3244.0,
+   3503.0,
+   3992.0
+  ],
+  "file": "asteroid.glb",
+  "placeholder": false,
+  "source": "asteroid.m3g"
+ },
+ "asteroid_alien": {
+  "vertices": 267,
+  "triangles": 89,
+  "meshes": 1,
+  "colors": [
+   "#5b5b5b",
+   "#565656",
+   "#464646",
+   "#3d3d3d"
+  ],
+  "bbox": [
+   [
+    -1454.0,
+    -1672.0,
+    -2063.0
+   ],
+   [
+    1853.0,
+    1370.0,
+    1949.0
+   ]
+  ],
+  "size": [
+   3307.0,
+   3042.0,
+   4012.0
+  ],
+  "file": "asteroid_alien.glb",
+  "placeholder": false,
+  "source": "asteroid_alien.m3g"
+ },
+ "asteroid_explo": {
+  "vertices": 375,
+  "triangles": 125,
+  "meshes": 9,
+  "colors": [
+   "#616161",
+   "#5c5c5c",
+   "#494949",
+   "#626262"
+  ],
+  "bbox": [
+   [
+    -2726.812,
+    -2802.148,
+    -2390.43
+   ],
+   [
+    2713.589,
+    2802.148,
+    2401.132
+   ]
+  ],
+  "size": [
+   5440.4,
+   5604.295,
+   4791.562
+  ],
+  "file": "asteroid_explo.glb",
+  "placeholder": false,
+  "source": "asteroid_explo.m3g"
+ },
+ "b1s1_": {
+  "vertices": 294,
+  "triangles": 134,
+  "meshes": 2,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -2115.0,
+    -618.0,
+    0.0
+   ],
+   [
+    -354.0,
+    0.0,
+    1233.0
+   ]
+  ],
+  "size": [
+   1761.0,
+   618.0,
+   1233.0
+  ],
+  "file": "b1s1_.glb",
+  "placeholder": false,
+  "source": "b1s1_.m3g"
+ },
+ "b2s1_": {
+  "vertices": 531,
+  "triangles": 311,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -0.0,
+    0.0,
+    -0.0
+   ],
+   [
+    2746.0,
+    2378.0,
+    2702.0
+   ]
+  ],
+  "size": [
+   2746.0,
+   2378.0,
+   2702.0
+  ],
+  "file": "b2s1_.glb",
+  "placeholder": false,
+  "source": "b2s1_.m3g"
+ },
+ "b3s1_": {
+  "vertices": 404,
+  "triangles": 220,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -2449.0,
+    -493.0,
+    -0.0
+   ],
+   [
+    0.0,
+    1507.0,
+    2381.0
+   ]
+  ],
+  "size": [
+   2449.0,
+   2000.0,
+   2381.0
+  ],
+  "file": "b3s1_.glb",
+  "placeholder": false,
+  "source": "b3s1_.m3g"
+ },
+ "blaster0": {
+  "vertices": 36,
+  "triangles": 12,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -152.0,
+    -152.0,
+    -152.0
+   ],
+   [
+    152.0,
+    152.0,
+    152.0
+   ]
+  ],
+  "size": [
+   304.0,
+   304.0,
+   304.0
+  ],
+  "file": "blaster0.glb",
+  "placeholder": false,
+  "source": "blaster0.m3g"
+ },
+ "blaster1": {
+  "vertices": 36,
+  "triangles": 12,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -170.0,
+    -170.0,
+    -170.0
+   ],
+   [
+    170.0,
+    170.0,
+    170.0
+   ]
+  ],
+  "size": [
+   340.0,
+   340.0,
+   340.0
+  ],
+  "file": "blaster1.glb",
+  "placeholder": false,
+  "source": "blaster1.m3g"
+ },
+ "blaster2": {
+  "vertices": 36,
+  "triangles": 12,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -187.0,
+    -187.0,
+    -187.0
+   ],
+   [
+    187.0,
+    187.0,
+    187.0
+   ]
+  ],
+  "size": [
+   374.0,
+   374.0,
+   374.0
+  ],
+  "file": "blaster2.glb",
+  "placeholder": false,
+  "source": "blaster2.m3g"
+ },
+ "blaster3": {
+  "vertices": 36,
+  "triangles": 12,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -204.0,
+    -204.0,
+    -204.0
+   ],
+   [
+    204.0,
+    204.0,
+    204.0
+   ]
+  ],
+  "size": [
+   408.0,
+   408.0,
+   408.0
+  ],
+  "file": "blaster3.glb",
+  "placeholder": false,
+  "source": "blaster3.m3g"
+ },
+ "blaster4": {
+  "vertices": 36,
+  "triangles": 12,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -220.0,
+    -220.0,
+    -220.0
+   ],
+   [
+    220.0,
+    220.0,
+    220.0
+   ]
+  ],
+  "size": [
+   440.0,
+   440.0,
+   440.0
+  ],
+  "file": "blaster4.glb",
+  "placeholder": false,
+  "source": "blaster4.m3g"
+ },
+ "blaster5": {
+  "vertices": 36,
+  "triangles": 12,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -240.0,
+    -240.0,
+    -240.0
+   ],
+   [
+    240.0,
+    240.0,
+    240.0
+   ]
+  ],
+  "size": [
+   480.0,
+   480.0,
+   480.0
+  ],
+  "file": "blaster5.glb",
+  "placeholder": false,
+  "source": "blaster5.m3g"
+ },
+ "blaster6": {
+  "vertices": 36,
+  "triangles": 12,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -260.0,
+    -260.0,
+    -260.0
+   ],
+   [
+    260.0,
+    260.0,
+    260.0
+   ]
+  ],
+  "size": [
+   520.0,
+   520.0,
+   520.0
+  ],
+  "file": "blaster6.glb",
+  "placeholder": false,
+  "source": "blaster6.m3g"
+ },
+ "blaster7": {
+  "vertices": 72,
+  "triangles": 48,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -280.0,
+    -280.0,
+    -280.0
+   ],
+   [
+    280.0,
+    280.0,
+    280.0
+   ]
+  ],
+  "size": [
+   560.0,
+   560.0,
+   560.0
+  ],
+  "file": "blaster7.glb",
+  "placeholder": false,
+  "source": "blaster7.m3g"
+ },
+ "blaster8": {
+  "vertices": 72,
+  "triangles": 48,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -299.0,
+    -299.0,
+    -299.0
+   ],
+   [
+    299.0,
+    299.0,
+    299.0
+   ]
+  ],
+  "size": [
+   598.0,
+   598.0,
+   598.0
+  ],
+  "file": "blaster8.glb",
+  "placeholder": false,
+  "source": "blaster8.m3g"
+ },
+ "blaster9": {
+  "vertices": 72,
+  "triangles": 48,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -309.0,
+    -309.0,
+    -309.0
+   ],
+   [
+    309.0,
+    309.0,
+    309.0
+   ]
+  ],
+  "size": [
+   618.0,
+   618.0,
+   618.0
+  ],
+  "file": "blaster9.glb",
+  "placeholder": false,
+  "source": "blaster9.m3g"
+ },
+ "boost_green": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -256.0,
+    -0.0,
+    -256.0
+   ],
+   [
+    256.0,
+    511.0,
+    256.0
+   ]
+  ],
+  "size": [
+   512.0,
+   511.0,
+   512.0
+  ],
+  "file": "boost_green.glb",
+  "placeholder": false,
+  "source": "boost_green.m3g"
+ },
+ "boost_red": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -256.0,
+    -0.0,
+    -256.0
+   ],
+   [
+    256.0,
+    511.0,
+    256.0
+   ]
+  ],
+  "size": [
+   512.0,
+   511.0,
+   512.0
+  ],
+  "file": "boost_red.glb",
+  "placeholder": false,
+  "source": "boost_red.m3g"
+ },
+ "boost_violet": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -256.0,
+    -0.0,
+    -256.0
+   ],
+   [
+    256.0,
+    511.0,
+    256.0
+   ]
+  ],
+  "size": [
+   512.0,
+   511.0,
+   512.0
+  ],
+  "file": "boost_violet.glb",
+  "placeholder": false,
+  "source": "boost_violet.m3g"
+ },
+ "box": {
+  "vertices": 132,
+  "triangles": 60,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -112.0,
+    -62.0,
+    -62.0
+   ],
+   [
+    112.0,
+    62.0,
+    62.0
+   ]
+  ],
+  "size": [
+   224.0,
+   124.0,
+   124.0
+  ],
+  "file": "box.glb",
+  "placeholder": false,
+  "source": "box.m3g"
+ },
+ "cannon0": {
+  "vertices": 6,
+  "triangles": 2,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -20.0,
+    -1200.0,
+    -20.0
+   ],
+   [
+    20.0,
+    1200.0,
+    20.0
+   ]
+  ],
+  "size": [
+   40.0,
+   2400.0,
+   40.0
+  ],
+  "file": "cannon0.glb",
+  "placeholder": false,
+  "source": "cannon0.m3g"
+ },
+ "cannon1": {
+  "vertices": 9,
+  "triangles": 3,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -75.0,
+    -1474.0,
+    -75.0
+   ],
+   [
+    75.0,
+    1474.0,
+    75.0
+   ]
+  ],
+  "size": [
+   150.0,
+   2948.0,
+   150.0
+  ],
+  "file": "cannon1.glb",
+  "placeholder": false,
+  "source": "cannon1.m3g"
+ },
+ "cannon2": {
+  "vertices": 12,
+  "triangles": 4,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -81.0,
+    -1611.939,
+    -81.0
+   ],
+   [
+    81.0,
+    1206.061,
+    81.0
+   ]
+  ],
+  "size": [
+   162.0,
+   2818.0,
+   162.0
+  ],
+  "file": "cannon2.glb",
+  "placeholder": false,
+  "source": "cannon2.m3g"
+ },
+ "cannon3": {
+  "vertices": 15,
+  "triangles": 5,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -101.0,
+    -1318.0,
+    -101.0
+   ],
+   [
+    101.0,
+    1318.0,
+    101.0
+   ]
+  ],
+  "size": [
+   202.0,
+   2636.0,
+   202.0
+  ],
+  "file": "cannon3.glb",
+  "placeholder": false,
+  "source": "cannon3.m3g"
+ },
+ "cannon4": {
+  "vertices": 27,
+  "triangles": 9,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -143.0,
+    -1409.0,
+    -143.0
+   ],
+   [
+    143.0,
+    1409.0,
+    143.0
+   ]
+  ],
+  "size": [
+   286.0,
+   2818.0,
+   286.0
+  ],
+  "file": "cannon4.glb",
+  "placeholder": false,
+  "source": "cannon4.m3g"
+ },
+ "cannon5": {
+  "vertices": 27,
+  "triangles": 9,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -143.0,
+    -1423.0,
+    -143.0
+   ],
+   [
+    143.0,
+    1423.0,
+    143.0
+   ]
+  ],
+  "size": [
+   286.0,
+   2846.0,
+   286.0
+  ],
+  "file": "cannon5.glb",
+  "placeholder": false,
+  "source": "cannon5.m3g"
+ },
+ "emp": {
+  "vertices": 392,
+  "triangles": 134,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -1226.0,
+    -2042.0,
+    -1226.0
+   ],
+   [
+    1226.0,
+    2042.0,
+    1226.0
+   ]
+  ],
+  "size": [
+   2452.0,
+   4084.0,
+   2452.0
+  ],
+  "file": "emp.glb",
+  "placeholder": false,
+  "source": "emp.m3g"
+ },
+ "explosion": {
+  "vertices": 252,
+  "triangles": 84,
+  "meshes": 25,
+  "colors": [
+   "#606060",
+   "#5b5b5b",
+   "#484848",
+   "#626262"
+  ],
+  "bbox": [
+   [
+    -3531.733,
+    -3560.155,
+    -2138.509
+   ],
+   [
+    3827.129,
+    4091.233,
+    3520.672
+   ]
+  ],
+  "size": [
+   7358.861,
+   7651.388,
+   5659.181
+  ],
+  "file": "explosion.glb",
+  "placeholder": false,
+  "source": "explosion.m3g"
+ },
+ "fig_bobolan": {
+  "vertices": 188,
+  "triangles": 116,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -68.0,
+    -1.0,
+    0.0
+   ],
+   [
+    78.0,
+    3.0,
+    513.0
+   ]
+  ],
+  "size": [
+   146.0,
+   4.0,
+   513.0
+  ],
+  "file": "fig_bobolan.glb",
+  "placeholder": false,
+  "source": "fig_bobolan.m3g"
+ },
+ "fig_grey": {
+  "vertices": 188,
+  "triangles": 116,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -68.0,
+    -1.0,
+    0.0
+   ],
+   [
+    78.0,
+    3.0,
+    513.0
+   ]
+  ],
+  "size": [
+   146.0,
+   4.0,
+   513.0
+  ],
+  "file": "fig_grey.glb",
+  "placeholder": false,
+  "source": "fig_grey.m3g"
+ },
+ "fig_multipod": {
+  "vertices": 188,
+  "triangles": 116,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -68.0,
+    -1.0,
+    0.0
+   ],
+   [
+    78.0,
+    3.0,
+    513.0
+   ]
+  ],
+  "size": [
+   146.0,
+   4.0,
+   513.0
+  ],
+  "file": "fig_multipod.glb",
+  "placeholder": false,
+  "source": "fig_multipod.m3g"
+ },
+ "fig_nivelian": {
+  "vertices": 188,
+  "triangles": 116,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -68.0,
+    -1.0,
+    0.0
+   ],
+   [
+    78.0,
+    3.0,
+    513.0
+   ]
+  ],
+  "size": [
+   146.0,
+   4.0,
+   513.0
+  ],
+  "file": "fig_nivelian.glb",
+  "placeholder": false,
+  "source": "fig_nivelian.m3g"
+ },
+ "fig_terran_f": {
+  "vertices": 188,
+  "triangles": 116,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -68.0,
+    -1.0,
+    0.0
+   ],
+   [
+    78.0,
+    3.0,
+    513.0
+   ]
+  ],
+  "size": [
+   146.0,
+   4.0,
+   513.0
+  ],
+  "file": "fig_terran_f.glb",
+  "placeholder": false,
+  "source": "fig_terran_f.m3g"
+ },
+ "fig_terran_m": {
+  "vertices": 188,
+  "triangles": 116,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -68.0,
+    -1.0,
+    0.0
+   ],
+   [
+    78.0,
+    3.0,
+    513.0
+   ]
+  ],
+  "size": [
+   146.0,
+   4.0,
+   513.0
+  ],
+  "file": "fig_terran_m.glb",
+  "placeholder": false,
+  "source": "fig_terran_m.m3g"
+ },
+ "fig_vossk": {
+  "vertices": 216,
+  "triangles": 156,
+  "meshes": 1,
+  "colors": [
+   "#62696e",
+   "#595c5a",
+   "#525657",
+   "#545458"
+  ],
+  "bbox": [
+   [
+    -68.0,
+    0.0,
+    0.0
+   ],
+   [
+    94.0,
+    0.0,
+    536.0
+   ]
+  ],
+  "size": [
+   162.0,
+   0.0,
+   536.0
+  ],
+  "file": "fig_vossk.glb",
+  "placeholder": false,
+  "source": "fig_vossk.m3g"
+ },
+ "gun_0": {
+  "vertices": 60,
+  "triangles": 20,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -21.0,
+    -239.0,
+    -21.0
+   ],
+   [
+    21.0,
+    -8.0,
+    21.0
+   ]
+  ],
+  "size": [
+   42.0,
+   231.0,
+   42.0
+  ],
+  "file": "gun_0.glb",
+  "placeholder": false,
+  "source": "gun_0.m3g"
+ },
+ "gun_1": {
+  "vertices": 60,
+  "triangles": 20,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -21.0,
+    -239.0,
+    -21.0
+   ],
+   [
+    21.0,
+    -8.0,
+    21.0
+   ]
+  ],
+  "size": [
+   42.0,
+   231.0,
+   42.0
+  ],
+  "file": "gun_1.glb",
+  "placeholder": false,
+  "source": "gun_1.m3g"
+ },
+ "gun_2": {
+  "vertices": 60,
+  "triangles": 20,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -21.0,
+    -239.0,
+    -21.0
+   ],
+   [
+    21.0,
+    -8.0,
+    21.0
+   ]
+  ],
+  "size": [
+   42.0,
+   231.0,
+   42.0
+  ],
+  "file": "gun_2.glb",
+  "placeholder": false,
+  "source": "gun_2.m3g"
+ },
+ "gun_3": {
+  "vertices": 60,
+  "triangles": 20,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -21.0,
+    -239.0,
+    -21.0
+   ],
+   [
+    21.0,
+    -8.0,
+    21.0
+   ]
+  ],
+  "size": [
+   42.0,
+   231.0,
+   42.0
+  ],
+  "file": "gun_3.glb",
+  "placeholder": false,
+  "source": "gun_3.m3g"
+ },
+ "gun_4": {
+  "vertices": 60,
+  "triangles": 20,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -21.0,
+    -239.0,
+    -21.0
+   ],
+   [
+    21.0,
+    -8.0,
+    21.0
+   ]
+  ],
+  "size": [
+   42.0,
+   231.0,
+   42.0
+  ],
+  "file": "gun_4.glb",
+  "placeholder": false,
+  "source": "gun_4.m3g"
+ },
+ "gun_5": {
+  "vertices": 60,
+  "triangles": 20,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -21.0,
+    -239.0,
+    -21.0
+   ],
+   [
+    21.0,
+    -8.0,
+    21.0
+   ]
+  ],
+  "size": [
+   42.0,
+   231.0,
+   42.0
+  ],
+  "file": "gun_5.glb",
+  "placeholder": false,
+  "source": "gun_5.m3g"
+ },
+ "gunshot_0": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -120.0,
+    -60.0,
+    -60.0
+   ],
+   [
+    120.0,
+    60.0,
+    60.0
+   ]
+  ],
+  "size": [
+   240.0,
+   120.0,
+   120.0
+  ],
+  "file": "gunshot_0.glb",
+  "placeholder": false,
+  "source": "gunshot_0.m3g"
+ },
+ "gunshot_1": {
+  "vertices": 12,
+  "triangles": 4,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -81.0,
+    -277.0,
+    -81.0
+   ],
+   [
+    81.0,
+    277.0,
+    81.0
+   ]
+  ],
+  "size": [
+   162.0,
+   554.0,
+   162.0
+  ],
+  "file": "gunshot_1.glb",
+  "placeholder": false,
+  "source": "gunshot_1.m3g"
+ },
+ "gunshot_2": {
+  "vertices": 36,
+  "triangles": 12,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -127.0,
+    -127.0,
+    -127.0
+   ],
+   [
+    127.0,
+    127.0,
+    127.0
+   ]
+  ],
+  "size": [
+   254.0,
+   254.0,
+   254.0
+  ],
+  "file": "gunshot_2.glb",
+  "placeholder": false,
+  "source": "gunshot_2.m3g"
+ },
+ "h1s1_": {
+  "vertices": 552,
+  "triangles": 184,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -7017.0,
+    0.0,
+    -0.0
+   ],
+   [
+    7017.0,
+    4096.0,
+    4849.0
+   ]
+  ],
+  "size": [
+   14034.0,
+   4096.0,
+   4849.0
+  ],
+  "file": "h1s1_.glb",
+  "placeholder": false,
+  "source": "h1s1_.m3g"
+ },
+ "h1s2_": {
+  "vertices": 1248,
+  "triangles": 416,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -7017.0,
+    0.0,
+    -0.0
+   ],
+   [
+    7017.0,
+    4096.0,
+    4849.0
+   ]
+  ],
+  "size": [
+   14034.0,
+   4096.0,
+   4849.0
+  ],
+  "file": "h1s2_.glb",
+  "placeholder": false,
+  "source": "h1s2_.m3g"
+ },
+ "h1s3_": {
+  "vertices": 707,
+  "triangles": 249,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -7017.0,
+    0.0,
+    -0.0
+   ],
+   [
+    7017.0,
+    4096.0,
+    4849.0
+   ]
+  ],
+  "size": [
+   14034.0,
+   4096.0,
+   4849.0
+  ],
+  "file": "h1s3_.glb",
+  "placeholder": false,
+  "source": "h1s3_.m3g"
+ },
+ "h1s4_": {
+  "vertices": 710,
+  "triangles": 260,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -9729.0,
+    0.0,
+    -0.0
+   ],
+   [
+    9729.0,
+    4096.0,
+    4849.0
+   ]
+  ],
+  "size": [
+   19458.0,
+   4096.0,
+   4849.0
+  ],
+  "file": "h1s4_.glb",
+  "placeholder": false,
+  "source": "h1s4_.m3g"
+ },
+ "h1s5_": {
+  "vertices": 49,
+  "triangles": 48,
+  "meshes": 2,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -2216.0,
+    -171.0,
+    294.0
+   ],
+   [
+    2216.0,
+    4261.0,
+    1199.0
+   ]
+  ],
+  "size": [
+   4432.0,
+   4432.0,
+   905.0
+  ],
+  "file": "h1s5_.glb",
+  "placeholder": false,
+  "source": "h1s5_.m3g"
+ },
+ "h1s6_": {
+  "vertices": 1190,
+  "triangles": 422,
+  "meshes": 2,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -7017.0,
+    0.0,
+    -2923.0
+   ],
+   [
+    7017.0,
+    17775.0,
+    4849.0
+   ]
+  ],
+  "size": [
+   14034.0,
+   17775.0,
+   7772.0
+  ],
+  "file": "h1s6_.glb",
+  "placeholder": false,
+  "source": "h1s6_.m3g"
+ },
+ "h1s7_": {
+  "vertices": 1260,
+  "triangles": 420,
+  "meshes": 2,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -7017.0,
+    868.0,
+    -0.0
+   ],
+   [
+    7017.0,
+    4095.0,
+    4850.0
+   ]
+  ],
+  "size": [
+   14034.0,
+   3227.0,
+   4850.0
+  ],
+  "file": "h1s7_.glb",
+  "placeholder": false,
+  "source": "h1s7_.m3g"
+ },
+ "h2s1_": {
+  "vertices": 432,
+  "triangles": 144,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -6727.0,
+    -0.0,
+    -128.0
+   ],
+   [
+    6727.0,
+    4096.0,
+    4972.0
+   ]
+  ],
+  "size": [
+   13454.0,
+   4096.0,
+   5100.0
+  ],
+  "file": "h2s1_.glb",
+  "placeholder": false,
+  "source": "h2s1_.m3g"
+ },
+ "h2s2_": {
+  "vertices": 596,
+  "triangles": 308,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -6727.0,
+    -0.0,
+    -128.0
+   ],
+   [
+    6727.0,
+    4095.0,
+    4972.0
+   ]
+  ],
+  "size": [
+   13454.0,
+   4095.0,
+   5100.0
+  ],
+  "file": "h2s2_.glb",
+  "placeholder": false,
+  "source": "h2s2_.m3g"
+ },
+ "h2s3_": {
+  "vertices": 782,
+  "triangles": 264,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -6727.0,
+    -0.0,
+    -1402.0
+   ],
+   [
+    6727.0,
+    4096.0,
+    4972.0
+   ]
+  ],
+  "size": [
+   13454.0,
+   4096.0,
+   6374.0
+  ],
+  "file": "h2s3_.glb",
+  "placeholder": false,
+  "source": "h2s3_.m3g"
+ },
+ "h2s4_": {
+  "vertices": 49,
+  "triangles": 48,
+  "meshes": 2,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -2216.0,
+    -171.0,
+    294.0
+   ],
+   [
+    2216.0,
+    4261.0,
+    1200.0
+   ]
+  ],
+  "size": [
+   4432.0,
+   4432.0,
+   906.0
+  ],
+  "file": "h2s4_.glb",
+  "placeholder": false,
+  "source": "h2s4_.m3g"
+ },
+ "h2s5_": {
+  "vertices": 1047,
+  "triangles": 349,
+  "meshes": 2,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -6727.0,
+    -0.001,
+    -215.0
+   ],
+   [
+    6727.0,
+    16231.0,
+    4972.0
+   ]
+  ],
+  "size": [
+   13454.0,
+   16231.001,
+   5187.0
+  ],
+  "file": "h2s5_.glb",
+  "placeholder": false,
+  "source": "h2s5_.m3g"
+ },
+ "h2s6_": {
+  "vertices": 1041,
+  "triangles": 347,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -6727.0,
+    2015.0,
+    -354.0
+   ],
+   [
+    6727.0,
+    4096.0,
+    4972.0
+   ]
+  ],
+  "size": [
+   13454.0,
+   2081.0,
+   5326.0
+  ],
+  "file": "h2s6_.glb",
+  "placeholder": false,
+  "source": "h2s6_.m3g"
+ },
+ "h3s1_": {
+  "vertices": 825,
+  "triangles": 307,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -6230.0,
+    0.0,
+    0.0
+   ],
+   [
+    6228.0,
+    4096.0,
+    5536.0
+   ]
+  ],
+  "size": [
+   12458.0,
+   4096.0,
+   5536.0
+  ],
+  "file": "h3s1_.glb",
+  "placeholder": false,
+  "source": "h3s1_.m3g"
+ },
+ "h3s2_": {
+  "vertices": 780,
+  "triangles": 260,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -6231.0,
+    0.0,
+    -26.0
+   ],
+   [
+    6228.0,
+    4096.0,
+    5536.0
+   ]
+  ],
+  "size": [
+   12459.0,
+   4096.0,
+   5562.0
+  ],
+  "file": "h3s2_.glb",
+  "placeholder": false,
+  "source": "h3s2_.m3g"
+ },
+ "h3s3_": {
+  "vertices": 49,
+  "triangles": 48,
+  "meshes": 2,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -2216.0,
+    -171.0,
+    294.0
+   ],
+   [
+    2216.0,
+    4261.0,
+    1199.0
+   ]
+  ],
+  "size": [
+   4432.0,
+   4432.0,
+   905.0
+  ],
+  "file": "h3s3_.glb",
+  "placeholder": false,
+  "source": "h3s3_.m3g"
+ },
+ "h3s4_": {
+  "vertices": 510,
+  "triangles": 194,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -6230.0,
+    0.0,
+    -509.0
+   ],
+   [
+    6228.0,
+    4504.0,
+    5536.0
+   ]
+  ],
+  "size": [
+   12458.0,
+   4504.0,
+   6045.0
+  ],
+  "file": "h3s4_.glb",
+  "placeholder": false,
+  "source": "h3s4_.m3g"
+ },
+ "h3s5_": {
+  "vertices": 594,
+  "triangles": 218,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -6230.0,
+    1557.0,
+    -121.0
+   ],
+   [
+    6228.0,
+    4096.0,
+    5536.0
+   ]
+  ],
+  "size": [
+   12458.0,
+   2539.0,
+   5657.0
+  ],
+  "file": "h3s5_.glb",
+  "placeholder": false,
+  "source": "h3s5_.m3g"
+ },
+ "jump": {
+  "vertices": 264,
+  "triangles": 88,
+  "meshes": 2,
+  "colors": [
+   "#606060",
+   "#5b5b5b",
+   "#484848",
+   "#626262"
+  ],
+  "bbox": [
+   [
+    -2207.0,
+    -2176.0,
+    -2137.0
+   ],
+   [
+    2207.0,
+    2137.0,
+    2176.0
+   ]
+  ],
+  "size": [
+   4414.0,
+   4313.0,
+   4313.0
+  ],
+  "file": "jump.glb",
+  "placeholder": false,
+  "source": "jump.m3g"
+ },
+ "jumpgate": {
+  "vertices": 779,
+  "triangles": 432,
+  "meshes": 20,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -6608.659,
+    -3899.396,
+    -7447.718
+   ],
+   [
+    6557.302,
+    917.0,
+    7325.64
+   ]
+  ],
+  "size": [
+   13165.961,
+   4816.396,
+   14773.357
+  ],
+  "file": "jumpgate.glb",
+  "placeholder": false,
+  "source": "jumpgate.m3g"
+ },
+ "laser0": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -80.0,
+    -1143.0,
+    -80.0
+   ],
+   [
+    80.0,
+    1143.0,
+    80.0
+   ]
+  ],
+  "size": [
+   160.0,
+   2286.0,
+   160.0
+  ],
+  "file": "laser0.glb",
+  "placeholder": false,
+  "source": "laser0.m3g"
+ },
+ "laser1": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -80.0,
+    -1395.0,
+    -80.0
+   ],
+   [
+    80.0,
+    1395.0,
+    80.0
+   ]
+  ],
+  "size": [
+   160.0,
+   2790.0,
+   160.0
+  ],
+  "file": "laser1.glb",
+  "placeholder": false,
+  "source": "laser1.m3g"
+ },
+ "laser2": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -80.0,
+    -1647.0,
+    -80.0
+   ],
+   [
+    80.0,
+    1647.0,
+    80.0
+   ]
+  ],
+  "size": [
+   160.0,
+   3294.0,
+   160.0
+  ],
+  "file": "laser2.glb",
+  "placeholder": false,
+  "source": "laser2.m3g"
+ },
+ "laser3": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -120.0,
+    -1967.0,
+    -120.0
+   ],
+   [
+    120.0,
+    1967.0,
+    120.0
+   ]
+  ],
+  "size": [
+   240.0,
+   3934.0,
+   240.0
+  ],
+  "file": "laser3.glb",
+  "placeholder": false,
+  "source": "laser3.m3g"
+ },
+ "laser4": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -120.0,
+    -1967.0,
+    -120.0
+   ],
+   [
+    120.0,
+    1967.0,
+    120.0
+   ]
+  ],
+  "size": [
+   240.0,
+   3934.0,
+   240.0
+  ],
+  "file": "laser4.glb",
+  "placeholder": false,
+  "source": "laser4.m3g"
+ },
+ "laser5": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -171.0,
+    -2373.0,
+    -171.0
+   ],
+   [
+    171.0,
+    2455.0,
+    171.0
+   ]
+  ],
+  "size": [
+   342.0,
+   4828.0,
+   342.0
+  ],
+  "file": "laser5.glb",
+  "placeholder": false,
+  "source": "laser5.m3g"
+ },
+ "laser6": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -181.0,
+    -2426.0,
+    -181.0
+   ],
+   [
+    181.0,
+    2426.0,
+    181.0
+   ]
+  ],
+  "size": [
+   362.0,
+   4852.0,
+   362.0
+  ],
+  "file": "laser6.glb",
+  "placeholder": false,
+  "source": "laser6.m3g"
+ },
+ "laser7": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -200.0,
+    -2683.0,
+    -200.0
+   ],
+   [
+    200.0,
+    2683.0,
+    200.0
+   ]
+  ],
+  "size": [
+   400.0,
+   5366.0,
+   400.0
+  ],
+  "file": "laser7.glb",
+  "placeholder": false,
+  "source": "laser7.m3g"
+ },
+ "laser8": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -181.0,
+    -2904.0,
+    -181.0
+   ],
+   [
+    181.0,
+    2904.0,
+    181.0
+   ]
+  ],
+  "size": [
+   362.0,
+   5808.0,
+   362.0
+  ],
+  "file": "laser8.glb",
+  "placeholder": false,
+  "source": "laser8.m3g"
+ },
+ "map_3d_sun": {
+  "vertices": 12,
+  "triangles": 4,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -2048.0,
+    0.0,
+    -2047.0
+   ],
+   [
+    2048.0,
+    0.0,
+    2048.0
+   ]
+  ],
+  "size": [
+   4096.0,
+   0.0,
+   4095.0
+  ],
+  "file": "map_3d_sun.glb",
+  "placeholder": false,
+  "source": "map_3d_sun.m3g"
+ },
+ "nuke": {
+  "vertices": 187,
+  "triangles": 94,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -794.0,
+    -2041.0,
+    -915.0
+   ],
+   [
+    794.0,
+    2041.0,
+    915.0
+   ]
+  ],
+  "size": [
+   1588.0,
+   4082.0,
+   1830.0
+  ],
+  "file": "nuke.glb",
+  "placeholder": false,
+  "source": "nuke.m3g"
+ },
+ "ship_00_[13001]": {
+  "vertices": 485,
+  "triangles": 228,
+  "meshes": 1,
+  "colors": [
+   "#616161",
+   "#5c5c5c",
+   "#494949",
+   "#626262"
+  ],
+  "bbox": [
+   [
+    -372.0,
+    -439.0,
+    -99.0
+   ],
+   [
+    372.0,
+    168.0,
+    169.0
+   ]
+  ],
+  "size": [
+   744.0,
+   607.0,
+   268.0
+  ],
+  "file": "ship_00_13001.glb",
+  "placeholder": false,
+  "source": "ship_00_[13001].m3g"
+ },
+ "ship_01_[13002]": {
+  "vertices": 902,
+  "triangles": 361,
+  "meshes": 1,
+  "colors": [
+   "#616161",
+   "#5c5c5c",
+   "#494949",
+   "#626262"
+  ],
+  "bbox": [
+   [
+    -795.0,
+    -1106.0,
+    -170.0
+   ],
+   [
+    795.0,
+    530.0,
+    231.0
+   ]
+  ],
+  "size": [
+   1590.0,
+   1636.0,
+   401.0
+  ],
+  "file": "ship_01_13002.glb",
+  "placeholder": false,
+  "source": "ship_01_[13002].m3g"
+ },
+ "ship_02_[13003]": {
+  "vertices": 750,
+  "triangles": 284,
+  "meshes": 1,
+  "colors": [
+   "#616161",
+   "#5c5c5c",
+   "#494949",
+   "#626262"
+  ],
+  "bbox": [
+   [
+    -458.0,
+    -929.0,
+    -150.0
+   ],
+   [
+    464.0,
+    359.0,
+    330.0
+   ]
+  ],
+  "size": [
+   922.0,
+   1288.0,
+   480.0
+  ],
+  "file": "ship_02_13003.glb",
+  "placeholder": false,
+  "source": "ship_02_[13003].m3g"
+ },
+ "ship_04_[13005]": {
+  "vertices": 1334,
+  "triangles": 494,
+  "meshes": 1,
+  "colors": [
+   "#616161",
+   "#5c5c5c",
+   "#494949",
+   "#626262"
+  ],
+  "bbox": [
+   [
+    -531.0,
+    -1092.0,
+    -132.0
+   ],
+   [
+    527.0,
+    347.0,
+    152.0
+   ]
+  ],
+  "size": [
+   1058.0,
+   1439.0,
+   284.0
+  ],
+  "file": "ship_04_13005.glb",
+  "placeholder": false,
+  "source": "ship_04_[13005].m3g"
+ },
+ "ship_06_[13007]": {
+  "vertices": 725,
+  "triangles": 338,
+  "meshes": 1,
+  "colors": [
+   "#616161",
+   "#5c5c5c",
+   "#494949",
+   "#626262"
+  ],
+  "bbox": [
+   [
+    -622.0,
+    -565.0,
+    -269.0
+   ],
+   [
+    622.0,
+    249.0,
+    482.0
+   ]
+  ],
+  "size": [
+   1244.0,
+   814.0,
+   751.0
+  ],
+  "file": "ship_06_13007.glb",
+  "placeholder": false,
+  "source": "ship_06_[13007].m3g"
+ },
+ "ship_12_[13013]": {
+  "vertices": 877,
+  "triangles": 368,
+  "meshes": 1,
+  "colors": [
+   "#616161",
+   "#5c5c5c",
+   "#494949",
+   "#626262"
+  ],
+  "bbox": [
+   [
+    -958.0,
+    -1330.0,
+    -384.0
+   ],
+   [
+    959.0,
+    619.0,
+    310.0
+   ]
+  ],
+  "size": [
+   1917.0,
+   1949.0,
+   694.0
+  ],
+  "file": "ship_12_13013.glb",
+  "placeholder": false,
+  "source": "ship_12_[13013].m3g"
+ },
+ "ship_23_[13024]": {
+  "vertices": 1758,
+  "triangles": 692,
+  "meshes": 1,
+  "colors": [
+   "#616161",
+   "#5c5c5c",
+   "#494949",
+   "#626262"
+  ],
+  "bbox": [
+   [
+    -1071.0,
+    -1463.0,
+    -374.0
+   ],
+   [
+    1058.0,
+    357.0,
+    744.0
+   ]
+  ],
+  "size": [
+   2129.0,
+   1820.0,
+   1118.0
+  ],
+  "file": "ship_23_13024.glb",
+  "placeholder": false,
+  "source": "ship_23_[13024].m3g"
+ },
+ "ship_28_[13029]": {
+  "vertices": 841,
+  "triangles": 356,
+  "meshes": 1,
+  "colors": [
+   "#616161",
+   "#5c5c5c",
+   "#494949",
+   "#626262"
+  ],
+  "bbox": [
+   [
+    -554.0,
+    -739.0,
+    -490.0
+   ],
+   [
+    555.0,
+    250.0,
+    399.0
+   ]
+  ],
+  "size": [
+   1109.0,
+   989.0,
+   889.0
+  ],
+  "file": "ship_28_13029.glb",
+  "placeholder": false,
+  "source": "ship_28_[13029].m3g"
+ },
+ "ship_hsoc_body": {
+  "vertices": 932,
+  "triangles": 384,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -295.0,
+    -817.188,
+    -108.346
+   ],
+   [
+    295.0,
+    1136.812,
+    111.654
+   ]
+  ],
+  "size": [
+   590.0,
+   1954.0,
+   220.0
+  ],
+  "file": "ship_hsoc_body.glb",
+  "placeholder": false,
+  "source": "ship_hsoc_body.m3g"
+ },
+ "ship_phantom_body": {
+  "vertices": 804,
+  "triangles": 268,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -444.0,
+    -728.188,
+    -171.346
+   ],
+   [
+    444.0,
+    285.812,
+    203.654
+   ]
+  ],
+  "size": [
+   888.0,
+   1014.0,
+   375.0
+  ],
+  "file": "ship_phantom_body.glb",
+  "placeholder": false,
+  "source": "ship_phantom_body.m3g"
+ },
+ "ship_tt_00": {
+  "vertices": 180,
+  "triangles": 74,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -367.0,
+    -571.0,
+    -855.0
+   ],
+   [
+    367.0,
+    571.0,
+    855.0
+   ]
+  ],
+  "size": [
+   734.0,
+   1142.0,
+   1710.0
+  ],
+  "file": "ship_tt_00.glb",
+  "placeholder": false,
+  "source": "ship_tt_00.m3g"
+ },
+ "ship_tt_01": {
+  "vertices": 44,
+  "triangles": 20,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -367.0,
+    -900.0,
+    -177.0
+   ],
+   [
+    367.0,
+    900.0,
+    177.0
+   ]
+  ],
+  "size": [
+   734.0,
+   1800.0,
+   354.0
+  ],
+  "file": "ship_tt_01.glb",
+  "placeholder": false,
+  "source": "ship_tt_01.m3g"
+ },
+ "ship_tt_02": {
+  "vertices": 182,
+  "triangles": 66,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -592.0,
+    -900.0,
+    -600.0
+   ],
+   [
+    592.0,
+    900.0,
+    600.0
+   ]
+  ],
+  "size": [
+   1184.0,
+   1800.0,
+   1200.0
+  ],
+  "file": "ship_tt_02.glb",
+  "placeholder": false,
+  "source": "ship_tt_02.m3g"
+ },
+ "ship_tt_03": {
+  "vertices": 234,
+  "triangles": 100,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -367.0,
+    -435.0,
+    -778.0
+   ],
+   [
+    367.0,
+    435.0,
+    778.0
+   ]
+  ],
+  "size": [
+   734.0,
+   870.0,
+   1556.0
+  ],
+  "file": "ship_tt_03.glb",
+  "placeholder": false,
+  "source": "ship_tt_03.m3g"
+ },
+ "ship_void_body": {
+  "vertices": 930,
+  "triangles": 468,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -365.0,
+    -1058.188,
+    -103.346
+   ],
+   [
+    365.0,
+    370.812,
+    96.654
+   ]
+  ],
+  "size": [
+   730.0,
+   1429.0,
+   200.0
+  ],
+  "file": "ship_void_body.glb",
+  "placeholder": false,
+  "source": "ship_void_body.m3g"
+ },
+ "ship_vt_00": {
+  "vertices": 552,
+  "triangles": 242,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -1839.0,
+    -2930.0,
+    -870.0
+   ],
+   [
+    1839.0,
+    2930.0,
+    870.0
+   ]
+  ],
+  "size": [
+   3678.0,
+   5860.0,
+   1740.0
+  ],
+  "file": "ship_vt_00.glb",
+  "placeholder": false,
+  "source": "ship_vt_00.m3g"
+ },
+ "ship_vt_01": {
+  "vertices": 72,
+  "triangles": 32,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -943.0,
+    -2133.0,
+    -482.0
+   ],
+   [
+    943.0,
+    2133.0,
+    482.0
+   ]
+  ],
+  "size": [
+   1886.0,
+   4266.0,
+   964.0
+  ],
+  "file": "ship_vt_01.glb",
+  "placeholder": false,
+  "source": "ship_vt_01.m3g"
+ },
+ "ship_vt_02": {
+  "vertices": 152,
+  "triangles": 64,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -1410.0,
+    -2803.0,
+    -598.0
+   ],
+   [
+    1410.0,
+    2803.0,
+    598.0
+   ]
+  ],
+  "size": [
+   2820.0,
+   5606.0,
+   1196.0
+  ],
+  "file": "ship_vt_02.glb",
+  "placeholder": false,
+  "source": "ship_vt_02.m3g"
+ },
+ "ship_vt_03": {
+  "vertices": 104,
+  "triangles": 42,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -943.0,
+    -1223.0,
+    -677.0
+   ],
+   [
+    943.0,
+    1223.0,
+    677.0
+   ]
+  ],
+  "size": [
+   1886.0,
+   2446.0,
+   1354.0
+  ],
+  "file": "ship_vt_03.glb",
+  "placeholder": false,
+  "source": "ship_vt_03.m3g"
+ },
+ "ship_vt_04": {
+  "vertices": 72,
+  "triangles": 28,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -931.0,
+    -984.0,
+    -683.0
+   ],
+   [
+    931.0,
+    984.0,
+    683.0
+   ]
+  ],
+  "size": [
+   1862.0,
+   1968.0,
+   1366.0
+  ],
+  "file": "ship_vt_04.glb",
+  "placeholder": false,
+  "source": "ship_vt_04.m3g"
+ },
+ "ship_vt_05": {
+  "vertices": 154,
+  "triangles": 60,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -864.0,
+    -1804.0,
+    -683.0
+   ],
+   [
+    864.0,
+    1804.0,
+    683.0
+   ]
+  ],
+  "size": [
+   1728.0,
+   3608.0,
+   1366.0
+  ],
+  "file": "ship_vt_05.glb",
+  "placeholder": false,
+  "source": "ship_vt_05.m3g"
+ },
+ "skybox": {
+  "vertices": 1392,
+  "triangles": 696,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -2045.833,
+    -2036.709,
+    -2041.427
+   ],
+   [
+    2021.167,
+    2033.292,
+    2016.573
+   ]
+  ],
+  "size": [
+   4067.0,
+   4070.0,
+   4058.0
+  ],
+  "file": "skybox.glb",
+  "placeholder": false,
+  "source": "skybox.m3g"
+ },
+ "spacejunk": {
+  "vertices": 174,
+  "triangles": 82,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -164.522,
+    -286.66,
+    -352.287
+   ],
+   [
+    452.478,
+    257.34,
+    424.713
+   ]
+  ],
+  "size": [
+   617.0,
+   544.0,
+   777.0
+  ],
+  "file": "spacejunk.glb",
+  "placeholder": false,
+  "source": "spacejunk.m3g"
+ },
+ "stat_arm0": {
+  "vertices": 52,
+  "triangles": 26,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -1244.0,
+    -12901.0,
+    -2604.0
+   ],
+   [
+    1265.0,
+    9347.0,
+    1021.0
+   ]
+  ],
+  "size": [
+   2509.0,
+   22248.0,
+   3625.0
+  ],
+  "file": "stat_arm0.glb",
+  "placeholder": false,
+  "source": "stat_arm0.m3g"
+ },
+ "stat_arm1": {
+  "vertices": 70,
+  "triangles": 30,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -1231.0,
+    -12901.0,
+    -3127.0
+   ],
+   [
+    1267.0,
+    17833.0,
+    1554.0
+   ]
+  ],
+  "size": [
+   2498.0,
+   30734.0,
+   4681.0
+  ],
+  "file": "stat_arm1.glb",
+  "placeholder": false,
+  "source": "stat_arm1.m3g"
+ },
+ "stat_bottom0": {
+  "vertices": 80,
+  "triangles": 32,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -3773.0,
+    -3755.0,
+    -8837.0
+   ],
+   [
+    3794.0,
+    3813.0,
+    5133.0
+   ]
+  ],
+  "size": [
+   7567.0,
+   7568.0,
+   13970.0
+  ],
+  "file": "stat_bottom0.glb",
+  "placeholder": false,
+  "source": "stat_bottom0.m3g"
+ },
+ "stat_bottom1": {
+  "vertices": 360,
+  "triangles": 120,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -4335.0,
+    -4320.0,
+    -10393.0
+   ],
+   [
+    4292.0,
+    4307.0,
+    5133.0
+   ]
+  ],
+  "size": [
+   8627.0,
+   8627.0,
+   15526.0
+  ],
+  "file": "stat_bottom1.glb",
+  "placeholder": false,
+  "source": "stat_bottom1.m3g"
+ },
+ "stat_bottom2": {
+  "vertices": 204,
+  "triangles": 68,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -10189.0,
+    -10178.0,
+    -23439.0
+   ],
+   [
+    10146.0,
+    10162.0,
+    5133.0
+   ]
+  ],
+  "size": [
+   20335.0,
+   20340.0,
+   28572.0
+  ],
+  "file": "stat_bottom2.glb",
+  "placeholder": false,
+  "source": "stat_bottom2.m3g"
+ },
+ "stat_bottom3": {
+  "vertices": 397,
+  "triangles": 158,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -5311.0,
+    -6976.0,
+    -8725.0
+   ],
+   [
+    5697.0,
+    6976.0,
+    5133.0
+   ]
+  ],
+  "size": [
+   11008.0,
+   13952.0,
+   13858.0
+  ],
+  "file": "stat_bottom3.glb",
+  "placeholder": false,
+  "source": "stat_bottom3.m3g"
+ },
+ "stat_bottom4": {
+  "vertices": 396,
+  "triangles": 132,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -9581.0,
+    -9596.0,
+    -9670.0
+   ],
+   [
+    9583.0,
+    9580.0,
+    5133.0
+   ]
+  ],
+  "size": [
+   19164.0,
+   19176.0,
+   14803.0
+  ],
+  "file": "stat_bottom4.glb",
+  "placeholder": false,
+  "source": "stat_bottom4.m3g"
+ },
+ "stat_bottom5": {
+  "vertices": 264,
+  "triangles": 88,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -6266.0,
+    -6251.0,
+    -14047.0
+   ],
+   [
+    8766.0,
+    8775.0,
+    5133.0
+   ]
+  ],
+  "size": [
+   15032.0,
+   15026.0,
+   19180.0
+  ],
+  "file": "stat_bottom5.glb",
+  "placeholder": false,
+  "source": "stat_bottom5.m3g"
+ },
+ "stat_bridge0": {
+  "vertices": 92,
+  "triangles": 36,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -1244.0,
+    -12901.0,
+    -2481.0
+   ],
+   [
+    1267.0,
+    12842.0,
+    9919.0
+   ]
+  ],
+  "size": [
+   2511.0,
+   25743.0,
+   12400.0
+  ],
+  "file": "stat_bridge0.glb",
+  "placeholder": false,
+  "source": "stat_bridge0.m3g"
+ },
+ "stat_bridge1": {
+  "vertices": 48,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -1267.0,
+    -8191.0,
+    -2481.0
+   ],
+   [
+    1231.0,
+    8192.0,
+    1021.0
+   ]
+  ],
+  "size": [
+   2498.0,
+   16383.0,
+   3502.0
+  ],
+  "file": "stat_bridge1.glb",
+  "placeholder": false,
+  "source": "stat_bridge1.m3g"
+ },
+ "stat_bridge2": {
+  "vertices": 48,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -1267.0,
+    -4096.0,
+    -2481.0
+   ],
+   [
+    1231.0,
+    4096.0,
+    1021.0
+   ]
+  ],
+  "size": [
+   2498.0,
+   8192.0,
+   3502.0
+  ],
+  "file": "stat_bridge2.glb",
+  "placeholder": false,
+  "source": "stat_bridge2.m3g"
+ },
+ "stat_bridge3": {
+  "vertices": 72,
+  "triangles": 28,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -1267.0,
+    -8158.0,
+    -2481.0
+   ],
+   [
+    1231.0,
+    8192.0,
+    1562.0
+   ]
+  ],
+  "size": [
+   2498.0,
+   16350.0,
+   4043.0
+  ],
+  "file": "stat_bridge3.glb",
+  "placeholder": false,
+  "source": "stat_bridge3.m3g"
+ },
+ "stat_conector0": {
+  "vertices": 258,
+  "triangles": 86,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -5663.0,
+    -5657.0,
+    -5106.0
+   ],
+   [
+    5643.0,
+    5648.0,
+    5133.0
+   ]
+  ],
+  "size": [
+   11306.0,
+   11305.0,
+   10239.0
+  ],
+  "file": "stat_conector0.glb",
+  "placeholder": false,
+  "source": "stat_conector0.m3g"
+ },
+ "stat_connector0": {
+  "vertices": 258,
+  "triangles": 86,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -5663.0,
+    -5657.0,
+    -5106.0
+   ],
+   [
+    5643.0,
+    5648.0,
+    5133.0
+   ]
+  ],
+  "size": [
+   11306.0,
+   11305.0,
+   10239.0
+  ],
+  "file": "stat_connector0.glb",
+  "placeholder": false,
+  "source": "stat_connector0.m3g"
+ },
+ "stat_hangar0": {
+  "vertices": 578,
+  "triangles": 310,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -9642.0,
+    -9642.0,
+    -21132.0
+   ],
+   [
+    9642.0,
+    9642.0,
+    5284.0
+   ]
+  ],
+  "size": [
+   19284.0,
+   19284.0,
+   26416.0
+  ],
+  "file": "stat_hangar0.glb",
+  "placeholder": false,
+  "source": "stat_hangar0.m3g"
+ },
+ "stat_hangar1": {
+  "vertices": 304,
+  "triangles": 150,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -13158.0,
+    -13152.0,
+    -4548.0
+   ],
+   [
+    13137.0,
+    13143.0,
+    5691.0
+   ]
+  ],
+  "size": [
+   26295.0,
+   26295.0,
+   10239.0
+  ],
+  "file": "stat_hangar1.glb",
+  "placeholder": false,
+  "source": "stat_hangar1.m3g"
+ },
+ "stat_hangar2": {
+  "vertices": 413,
+  "triangles": 216,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -6325.0,
+    -6325.0,
+    -6995.0
+   ],
+   [
+    6325.0,
+    6325.0,
+    4636.0
+   ]
+  ],
+  "size": [
+   12650.0,
+   12650.0,
+   11631.0
+  ],
+  "file": "stat_hangar2.glb",
+  "placeholder": false,
+  "source": "stat_hangar2.m3g"
+ },
+ "stat_hangar3": {
+  "vertices": 264,
+  "triangles": 134,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -5661.0,
+    -5654.0,
+    -6278.0
+   ],
+   [
+    5639.0,
+    5647.0,
+    5612.0
+   ]
+  ],
+  "size": [
+   11300.0,
+   11301.0,
+   11890.0
+  ],
+  "file": "stat_hangar3.glb",
+  "placeholder": false,
+  "source": "stat_hangar3.m3g"
+ },
+ "stat_hangar4": {
+  "vertices": 334,
+  "triangles": 178,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -6951.0,
+    -5690.0,
+    -6439.0
+   ],
+   [
+    6930.0,
+    5682.0,
+    5119.0
+   ]
+  ],
+  "size": [
+   13881.0,
+   11372.0,
+   11558.0
+  ],
+  "file": "stat_hangar4.glb",
+  "placeholder": false,
+  "source": "stat_hangar4.m3g"
+ },
+ "stat_light0": {
+  "vertices": 24,
+  "triangles": 12,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -512.0,
+    -512.0,
+    -512.0
+   ],
+   [
+    512.0,
+    512.0,
+    512.0
+   ]
+  ],
+  "size": [
+   1024.0,
+   1024.0,
+   1024.0
+  ],
+  "file": "stat_light0.glb",
+  "placeholder": false,
+  "source": "stat_light0.m3g"
+ },
+ "stat_light1": {
+  "vertices": 24,
+  "triangles": 12,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -512.0,
+    -512.0,
+    -512.0
+   ],
+   [
+    512.0,
+    512.0,
+    512.0
+   ]
+  ],
+  "size": [
+   1024.0,
+   1024.0,
+   1024.0
+  ],
+  "file": "stat_light1.glb",
+  "placeholder": false,
+  "source": "stat_light1.m3g"
+ },
+ "stat_middle0": {
+  "vertices": 208,
+  "triangles": 102,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -5676.0,
+    -3797.0,
+    -4444.0
+   ],
+   [
+    5682.0,
+    3813.0,
+    2564.0
+   ]
+  ],
+  "size": [
+   11358.0,
+   7610.0,
+   7008.0
+  ],
+  "file": "stat_middle0.glb",
+  "placeholder": false,
+  "source": "stat_middle0.m3g"
+ },
+ "stat_middle1": {
+  "vertices": 182,
+  "triangles": 66,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -5684.0,
+    -3755.0,
+    -5371.0
+   ],
+   [
+    5708.0,
+    5697.0,
+    2889.0
+   ]
+  ],
+  "size": [
+   11392.0,
+   9452.0,
+   8260.0
+  ],
+  "file": "stat_middle1.glb",
+  "placeholder": false,
+  "source": "stat_middle1.m3g"
+ },
+ "stat_middle2": {
+  "vertices": 169,
+  "triangles": 73,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -5717.0,
+    -3755.0,
+    -10388.0
+   ],
+   [
+    7395.0,
+    9337.0,
+    2564.0
+   ]
+  ],
+  "size": [
+   13112.0,
+   13092.0,
+   12952.0
+  ],
+  "file": "stat_middle2.glb",
+  "placeholder": false,
+  "source": "stat_middle2.m3g"
+ },
+ "stat_middle3": {
+  "vertices": 143,
+  "triangles": 69,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -6206.0,
+    -6193.0,
+    -2830.0
+   ],
+   [
+    6163.0,
+    6249.0,
+    5035.0
+   ]
+  ],
+  "size": [
+   12369.0,
+   12442.0,
+   7865.0
+  ],
+  "file": "stat_middle3.glb",
+  "placeholder": false,
+  "source": "stat_middle3.m3g"
+ },
+ "stat_top0": {
+  "vertices": 198,
+  "triangles": 66,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -7446.0,
+    -7440.0,
+    -5120.0
+   ],
+   [
+    8158.0,
+    8351.0,
+    11138.0
+   ]
+  ],
+  "size": [
+   15604.0,
+   15791.0,
+   16258.0
+  ],
+  "file": "stat_top0.glb",
+  "placeholder": false,
+  "source": "stat_top0.m3g"
+ },
+ "stat_top1": {
+  "vertices": 300,
+  "triangles": 100,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -5315.0,
+    -5329.0,
+    -5106.0
+   ],
+   [
+    5337.0,
+    5323.0,
+    5377.0
+   ]
+  ],
+  "size": [
+   10652.0,
+   10652.0,
+   10483.0
+  ],
+  "file": "stat_top1.glb",
+  "placeholder": false,
+  "source": "stat_top1.m3g"
+ },
+ "stat_top10": {
+  "vertices": 210,
+  "triangles": 70,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -5669.0,
+    -5682.0,
+    -5106.0
+   ],
+   [
+    5691.0,
+    5677.0,
+    12173.0
+   ]
+  ],
+  "size": [
+   11360.0,
+   11359.0,
+   17279.0
+  ],
+  "file": "stat_top10.glb",
+  "placeholder": false,
+  "source": "stat_top10.m3g"
+ },
+ "stat_top2": {
+  "vertices": 408,
+  "triangles": 136,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -8037.0,
+    -8042.0,
+    -5106.0
+   ],
+   [
+    8030.0,
+    8025.0,
+    7175.0
+   ]
+  ],
+  "size": [
+   16067.0,
+   16067.0,
+   12281.0
+  ],
+  "file": "stat_top2.glb",
+  "placeholder": false,
+  "source": "stat_top2.m3g"
+ },
+ "stat_top3": {
+  "vertices": 240,
+  "triangles": 80,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -8734.0,
+    -8851.0,
+    -8976.0
+   ],
+   [
+    8795.0,
+    11378.0,
+    6635.0
+   ]
+  ],
+  "size": [
+   17529.0,
+   20229.0,
+   15611.0
+  ],
+  "file": "stat_top3.glb",
+  "placeholder": false,
+  "source": "stat_top3.m3g"
+ },
+ "stat_top4": {
+  "vertices": 354,
+  "triangles": 118,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -16959.0,
+    -16885.0,
+    -6715.0
+   ],
+   [
+    16885.0,
+    16885.0,
+    4576.0
+   ]
+  ],
+  "size": [
+   33844.0,
+   33770.0,
+   11291.0
+  ],
+  "file": "stat_top4.glb",
+  "placeholder": false,
+  "source": "stat_top4.m3g"
+ },
+ "stat_top5": {
+  "vertices": 294,
+  "triangles": 98,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -3810.0,
+    -3817.0,
+    -5106.0
+   ],
+   [
+    3831.0,
+    3813.0,
+    7138.0
+   ]
+  ],
+  "size": [
+   7641.0,
+   7630.0,
+   12244.0
+  ],
+  "file": "stat_top5.glb",
+  "placeholder": false,
+  "source": "stat_top5.m3g"
+ },
+ "stat_top6": {
+  "vertices": 168,
+  "triangles": 56,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -5868.0,
+    -3755.0,
+    -5106.0
+   ],
+   [
+    5865.0,
+    3813.0,
+    10236.0
+   ]
+  ],
+  "size": [
+   11733.0,
+   7568.0,
+   15342.0
+  ],
+  "file": "stat_top6.glb",
+  "placeholder": false,
+  "source": "stat_top6.m3g"
+ },
+ "stat_top7": {
+  "vertices": 198,
+  "triangles": 66,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -3773.0,
+    -3768.0,
+    -5106.0
+   ],
+   [
+    3794.0,
+    3813.0,
+    17869.0
+   ]
+  ],
+  "size": [
+   7567.0,
+   7581.0,
+   22975.0
+  ],
+  "file": "stat_top7.glb",
+  "placeholder": false,
+  "source": "stat_top7.m3g"
+ },
+ "stat_top8": {
+  "vertices": 255,
+  "triangles": 85,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -3773.0,
+    -3768.0,
+    -5106.0
+   ],
+   [
+    7341.0,
+    3813.0,
+    19625.0
+   ]
+  ],
+  "size": [
+   11114.0,
+   7581.0,
+   24731.0
+  ],
+  "file": "stat_top8.glb",
+  "placeholder": false,
+  "source": "stat_top8.m3g"
+ },
+ "stat_top9": {
+  "vertices": 243,
+  "triangles": 81,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -6799.0,
+    -3768.0,
+    -5106.0
+   ],
+   [
+    4564.0,
+    3813.0,
+    17145.0
+   ]
+  ],
+  "size": [
+   11363.0,
+   7581.0,
+   22251.0
+  ],
+  "file": "stat_top9.glb",
+  "placeholder": false,
+  "source": "stat_top9.m3g"
+ },
+ "stat_vossk_arm1": {
+  "vertices": 104,
+  "triangles": 49,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5b5b5b",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -5780.0,
+    -5890.0,
+    -5392.0
+   ],
+   [
+    5890.0,
+    5780.0,
+    5392.0
+   ]
+  ],
+  "size": [
+   11670.0,
+   11670.0,
+   10784.0
+  ],
+  "file": "stat_vossk_arm1.glb",
+  "placeholder": false,
+  "source": "stat_vossk_arm1.m3g"
+ },
+ "stat_vossk_bottom1": {
+  "vertices": 128,
+  "triangles": 64,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -5746.0,
+    -5746.0,
+    -4889.0
+   ],
+   [
+    5746.0,
+    5746.0,
+    4889.0
+   ]
+  ],
+  "size": [
+   11492.0,
+   11492.0,
+   9778.0
+  ],
+  "file": "stat_vossk_bottom1.glb",
+  "placeholder": false,
+  "source": "stat_vossk_bottom1.m3g"
+ },
+ "stat_vossk_bottom2": {
+  "vertices": 56,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -2433.0,
+    -2631.0,
+    -6868.0
+   ],
+   [
+    2433.0,
+    2631.0,
+    6868.0
+   ]
+  ],
+  "size": [
+   4866.0,
+   5262.0,
+   13736.0
+  ],
+  "file": "stat_vossk_bottom2.glb",
+  "placeholder": false,
+  "source": "stat_vossk_bottom2.m3g"
+ },
+ "stat_vossk_middle1": {
+  "vertices": 366,
+  "triangles": 216,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -8448.0,
+    -8448.0,
+    -2395.0
+   ],
+   [
+    8448.0,
+    9033.0,
+    18130.0
+   ]
+  ],
+  "size": [
+   16896.0,
+   17481.0,
+   20525.0
+  ],
+  "file": "stat_vossk_middle1.glb",
+  "placeholder": false,
+  "source": "stat_vossk_middle1.m3g"
+ },
+ "stat_vossk_middle2": {
+  "vertices": 32,
+  "triangles": 16,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -5620.0,
+    -5620.0,
+    -3063.0
+   ],
+   [
+    5620.0,
+    5620.0,
+    3063.0
+   ]
+  ],
+  "size": [
+   11240.0,
+   11240.0,
+   6126.0
+  ],
+  "file": "stat_vossk_middle2.glb",
+  "placeholder": false,
+  "source": "stat_vossk_middle2.m3g"
+ },
+ "stat_vossk_top1": {
+  "vertices": 118,
+  "triangles": 58,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -12689.0,
+    -11526.0,
+    -6575.0
+   ],
+   [
+    12689.0,
+    11526.0,
+    7623.0
+   ]
+  ],
+  "size": [
+   25378.0,
+   23052.0,
+   14198.0
+  ],
+  "file": "stat_vossk_top1.glb",
+  "placeholder": false,
+  "source": "stat_vossk_top1.m3g"
+ },
+ "void_waste": {
+  "vertices": 200,
+  "triangles": 96,
+  "meshes": 1,
+  "colors": [
+   "#676767",
+   "#5a5a5a",
+   "#545454",
+   "#575757"
+  ],
+  "bbox": [
+   [
+    -168.0,
+    -244.0,
+    -204.0
+   ],
+   [
+    257.0,
+    237.0,
+    204.0
+   ]
+  ],
+  "size": [
+   425.0,
+   481.0,
+   408.0
+  ],
+  "file": "void_waste.glb",
+  "placeholder": false,
+  "source": "void_waste.m3g"
+ },
+ "vortex": {
+  "vertices": 320,
+  "triangles": 160,
+  "meshes": 7,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    -11281.98,
+    -11319.368,
+    -5887.759
+   ],
+   [
+    11242.633,
+    11185.858,
+    1152.183
+   ]
+  ],
+  "size": [
+   22524.613,
+   22505.226,
+   7039.943
+  ],
+  "file": "vortex.glb",
+  "placeholder": false,
+  "source": "vortex.m3g"
+ },
+ "vortex_dust": {
+  "vertices": 16,
+  "triangles": 8,
+  "meshes": 1,
+  "colors": [
+   "#686868",
+   "#5a5a5a",
+   "#555555",
+   "#555555"
+  ],
+  "bbox": [
+   [
+    20907.623,
+    4882.305,
+    2344.711
+   ],
+   [
+    21190.08,
+    5164.779,
+    2348.276
+   ]
+  ],
+  "size": [
+   282.457,
+   282.474,
+   3.564
+  ],
+  "file": "vortex_dust.glb",
+  "placeholder": false,
+  "source": "vortex_dust.m3g"
+ },
+ "boost_cyan": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#00ffff",
+   "#00ffff",
+   "#00ffff",
+   "#00ffff"
+  ],
+  "bbox": [
+   [
+    -256.0,
+    -0.0,
+    -256.0
+   ],
+   [
+    256.0,
+    511.0,
+    256.0
+   ]
+  ],
+  "size": [
+   512.0,
+   511.0,
+   512.0
+  ],
+  "note": "клон boost_green с перекраской",
+  "file": "boost_cyan.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "boost_orange": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#ff8c00",
+   "#ff8c00",
+   "#ff8c00",
+   "#ff8c00"
+  ],
+  "bbox": [
+   [
+    -256.0,
+    -0.0,
+    -256.0
+   ],
+   [
+    256.0,
+    511.0,
+    256.0
+   ]
+  ],
+  "size": [
+   512.0,
+   511.0,
+   512.0
+  ],
+  "note": "клон boost_green с перекраской",
+  "file": "boost_orange.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "boost_white": {
+  "vertices": 72,
+  "triangles": 24,
+  "meshes": 1,
+  "colors": [
+   "#ffffff",
+   "#ffffff",
+   "#ffffff",
+   "#ffffff"
+  ],
+  "bbox": [
+   [
+    -256.0,
+    -0.0,
+    -256.0
+   ],
+   [
+    256.0,
+    511.0,
+    256.0
+   ]
+  ],
+  "size": [
+   512.0,
+   511.0,
+   512.0
+  ],
+  "note": "клон boost_green с перекраской",
+  "file": "boost_white.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "orbit": {
+  "note": "заглушка ring",
+  "size": [
+   6553.6,
+   6553.6,
+   6553.6
+  ],
+  "file": "orbit.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "planet_sun": {
+  "note": "заглушка sphere",
+  "size": [
+   4096.0,
+   4096.0,
+   4096.0
+  ],
+  "file": "planet_sun.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_0": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_0.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_03_[13004]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_03_13004.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_05_[13006]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_05_13006.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_07_[13008]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_07_13008.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_08_[13009]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_08_13009.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_09_[13010]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_09_13010.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_10_[13011]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_10_13011.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_11_[13012]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_11_13012.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_13_[13014]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_13_13014.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_14_[13015]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_14_13015.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_15_[13016]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_15_13016.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_16_[13017]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_16_13017.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_17_[13018]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_17_13018.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_18_[13019]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_18_13019.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_19_[13020]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_19_13020.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_20_[13021]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_20_13021.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_21_[13022]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_21_13022.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_22_[13023]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_22_13023.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_24_[13025]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_24_13025.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_25_[13026]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_25_13026.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_26_[13027]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_26_13027.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_27_[13028]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_27_13028.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_29_[13030]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_29_13030.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_30_[13031]": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_30_13031.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_00": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_00.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_01": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_01.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_02": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_02.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_03": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_03.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_04": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_04.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_05": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_05.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_06": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_06.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_07": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_07.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_08": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_08.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_09": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_09.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_10": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_10.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_11": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_11.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_12": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_12.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_13": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_13.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_14": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_14.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_15": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_15.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "ship_tb_16": {
+  "note": "заглушка wedge",
+  "size": [
+   1363.5,
+   1363.5,
+   1363.5
+  ],
+  "file": "ship_tb_16.glb",
+  "placeholder": true,
+  "source": null
+ },
+ "void_station": {
+  "note": "заглушка box",
+  "size": [
+   26416.0,
+   26416.0,
+   26416.0
+  ],
+  "file": "void_station.glb",
+  "placeholder": true,
+  "source": null
+ }
+}

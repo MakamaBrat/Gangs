@@ -1,15 +1,38 @@
 <!doctype html>
-<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>mygame web port (WIP)</title>
-<style>
- body{margin:0;background:#1b1b24;color:#ddd;font:13px system-ui,sans-serif;display:flex;flex-direction:column;align-items:center;gap:8px;padding:8px}
- canvas{image-rendering:pixelated;background:#000;width:min(100%,360px);aspect-ratio:240/320;border:1px solid #444;touch-action:none}
- small,#info{max-width:480px;text-align:center;color:#aab}
-</style></head><body>
-<canvas id="c" width="240" height="320"></canvas>
-<div id="info">загрузка…</div>
-<small>Стрелки или WASD — ходьба (комбинации дают диагонали), цифры 1–9 как на телефоне, C — показать коллизии.
-Карта: <a href="?map=city1_h">city1_h</a> · <a href="?map=city2_s">city2_s</a> · <a href="viewer.html">просмотр ассетов</a>.
-Запуск: <code>python3 -m http.server</code> → http://localhost:8000</small>
-<script type="module" src="js/game.js"></script>
-</body></html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GOF2 web — просмотр ресурсов</title>
+  <style>
+    html, body { margin: 0; height: 100%; background: #0b0e14; color: #cfd6e4; font: 13px/1.4 system-ui, sans-serif; }
+    #app { display: flex; height: 100%; }
+    #side { width: 270px; display: flex; flex-direction: column; border-right: 1px solid #1d2433; }
+    #side input { margin: 8px; padding: 6px 8px; background: #121826; border: 1px solid #263048; color: inherit; border-radius: 6px; }
+    #list { flex: 1; overflow: auto; }
+    #list div { padding: 3px 12px; cursor: pointer; white-space: nowrap; }
+    #list div:hover { background: #151c2c; }
+    #list div.sel { background: #1f2c4a; }
+    #list div.ph { color: #8a7cc7; }
+    #list h4 { margin: 10px 12px 2px; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: #5f6c88; }
+    #view { flex: 1; position: relative; }
+    canvas { display: block; width: 100%; height: 100%; }
+    #info { position: absolute; left: 12px; top: 12px; background: #0b0e14cc; padding: 8px 12px; border-radius: 8px; pointer-events: none; white-space: pre; }
+    #opts { position: absolute; right: 12px; top: 12px; background: #0b0e14cc; padding: 8px 12px; border-radius: 8px; }
+    #opts label { display: block; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <div id="side"><input id="q" placeholder="поиск: ship_, stat_, laser…" /><div id="list"></div></div>
+    <div id="view">
+      <div id="info">загрузка…</div>
+      <div id="opts">
+        <label><input type="checkbox" id="wire" /> wireframe</label>
+        <label><input type="checkbox" id="rot" checked /> вращение</label>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>
