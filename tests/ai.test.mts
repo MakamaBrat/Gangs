@@ -1,0 +1,20 @@
+import * as THREE from 'three';
+import { EnemyShip, AI, volleyOffsets } from '../src/ai';
+import fs from 'node:fs';
+import { fileURLToPath } from 'node:url';
+const ok = (n: string, c: boolean, extra = '') => console.log(c ? 'OK  ' : 'FAIL', n, extra);
+const player = new THREE.Vector3(0, 0, 0);
+const e = new EnemyShip(new THREE.Vector3(0, 0, -6));
+let fired = 0, t = 0, closest = 99;
+while (t < 40000) { e.update(50, player); t += 50; if (e.wantsFire) fired++; closest = Math.min(closest, e.pos.distanceTo(player)); }
+ok('враг сближается и стреляет за 40 с', fired > 0 && closest < 3, `(выстрелов ${fired}, мин. дистанция ${closest.toFixed(2)})`);
+ok('скорость по умолчанию 2.0 raw/мс ≈ 0.49 ед/с', Math.abs(new EnemyShip(player).speedPerSec - 0.488) < 0.01, `(${new EnemyShip(player).speedPerSec.toFixed(3)})`);
+const v = new EnemyShip(new THREE.Vector3(0,0,-6)); v.damage(45); v.update(50, player);
+ok('потеря >40% корпуса -> манёвр (скорость 3.0, поворот 1.3)', v.speed === AI.evadeSpeed && v.turn === AI.evadeTurn);
+const d = new EnemyShip(player); d.damage(200);
+ok('смерть -> exploding -> wreck', d.state === 'exploding'); for (let i = 0; i < 30; i++) d.update(50, player);
+ok('через ~0.8 с обломки', d.state === 'wreck');
+const F = JSON.parse(fs.readFileSync(fileURLToPath(new URL('../public/data/volley_layouts.json', import.meta.url)), 'utf8')).layouts;
+const v3 = volleyOffsets(F, 3);
+ok('залп из 3 снарядов: x = 320, 0, -320 raw, z = 100 raw', v3.length === 3 && Math.abs(v3[0].x - 320 / 4096) < 1e-9 && v3[1].x === 0 && Math.abs(v3[2].x + 320 / 4096) < 1e-9 && Math.abs(v3[0].z - 100 / 4096) < 1e-9);
+ok('таблица на 1..10 снарядов', F.length === 10 && F.every((l: number[][], i: number) => l.length === i + 1));

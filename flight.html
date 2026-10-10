@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GOF2 web — песочница полёта</title>
+  <style>
+    html, body { margin: 0; height: 100%; background: #000; overflow: hidden; color: #cfd6e4; font: 13px/1.5 system-ui, sans-serif; }
+    canvas { display: block; width: 100%; height: 100%; }
+    #hud { position: absolute; left: 12px; top: 12px; background: #000a; padding: 8px 12px; border-radius: 8px; white-space: pre; pointer-events: none; }
+    #panel { position: absolute; right: 12px; top: 12px; background: #000b; padding: 8px 10px; border-radius: 8px; display: grid; grid-template-columns: auto 190px; gap: 4px 8px; align-items: center; }
+    #panel select { background: #121826; color: inherit; border: 1px solid #263048; padding: 3px 6px; border-radius: 6px; width: 190px; }
+    #help { position: absolute; left: 12px; bottom: 12px; background: #000a; padding: 8px 12px; border-radius: 8px; max-width: 560px; }
+  </style>
+</head>
+<body>
+  <div id="hud">загрузка…</div>
+  <div id="panel"></div>
+  <div id="help">
+    <b>Песочница.</b> Раскладка — из самой игры (строка справки ru.lang[22]): стрелки или 2/4/6/8 — курс,
+    <b>5 / Enter</b> — огонь, <b>7</b> — авто-огонь, <b>3</b> — ускоритель, <b>0 / Space</b> — вид назад, 9 — автопилот (пока нет).
+    Физика, форсаж, щит и оборудование — из кода и данных игры. <b>V</b> — развернуть модель, если летит задом.
+    Модель и корабль выбираются раздельно: какая модель какому кораблю соответствует, пока неизвестно.
+  </div>
+  <script type="module" src="/src/flight.ts"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+import { InputState, KEY } from '../src/input';
+const i = new InputState();
+const ok = (n: string, c: boolean) => console.log(c ? 'OK  ' : 'FAIL', n);
+i.keyDown(-1);                       ok('UP по коду -1', i.isHeld(KEY.UP) && i.wasPressed(KEY.UP));
+i.endFrame();                        ok('ребро сброшено, удержание осталось', !i.wasPressed(KEY.UP) && i.isHeld(KEY.UP));
+i.keyDown(50);                       ok("'2' тоже UP, повторного ребра нет", i.isHeld(KEY.UP) && !i.wasPressed(KEY.UP));
+i.keyDown(-5); i.keyDown(32);        ok('FIRE (-5) и K0 (space) одновременно', i.isHeld(KEY.FIRE|KEY.K0));
+i.keyUp(-1);                         ok('отпускание UP даёт ребро released', (i.released & KEY.UP) !== 0 );
+i.endFrame(); i.keyDown('r'.charCodeAt(0)); ok("'r' -> K1 (0x8000)", i.isHeld(KEY.K1));
+i.keyDown(42); i.keyDown(35);        ok('* и # -> 0x800 и 0x1000', i.isHeld(KEY.STAR|KEY.POUND));

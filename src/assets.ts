@@ -1,8 +1,8 @@
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 
-/** Координаты в M3G — целые «юниты» (корабль ≈ 1000–2000). 1 юнит движка = 1000 юнитов M3G. */
-export const UNIT = 1 / 1000;
+/** Движок игры — фиксированная точка 4096 = 1.0 (см. src/fixed.ts); 3d_planet и skybox ≈ ровно 4096, значит 1 единица сцены = 4096 юнитов M3G. */
+export const UNIT = 1 / 4096;
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -66,7 +66,9 @@ export interface StarSystem {
   pos: number[];
   /** индексы в stations */
   stations: number[];
-  extra_a: number[];
+  /** соседние системы (индексы), куда ведут переходы; пусто — у закрытых систем (в коде: dx.int_arr_b == null) */
+  neighbors: number[];
+  /** смысл не выяснен (у всех систем [0,1,2]) */
   extra_b: number[];
 }
 export interface Station { id: number; name: string; f0: number; f1: number; f2: number; f3: number }

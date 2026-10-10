@@ -65,12 +65,12 @@ def read_systems(b):
         pos = d.ints(d.int())            # координаты на карте (x, y, z)
         stations = d.ints(d.int())       # id станций (индексы в stations.json)
         n = d.int()
-        extra_a = d.ints(n) if n > 0 else []
+        neighbors = d.ints(n) if n > 0 else []   # соседние системы (переходы); пусто — у закрытых систем
         n = d.int()
         extra_b = d.ints(n) if n > 0 else []
         out.append({'id': i, 'name': name, 'f0': f0, 'flag': flag,
                     'nums': nums, 'pos': pos, 'stations': stations,
-                    'extra_a': extra_a, 'extra_b': extra_b})
+                    'neighbors': neighbors, 'extra_b': extra_b})
     return out, d
 
 
